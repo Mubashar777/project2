@@ -9,6 +9,11 @@ position:fixed;
 background-color:gray;
 
 }
+.btn{
+    background-color: red;
+    color: white;
+    transition: 0.4s;
+}
 .navbar-brand{
     font-size: 2rem;
     color: red;
@@ -36,9 +41,10 @@ color:black;
     width: 100%;
 }
 .main h1{
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: 700;
-    color:red;
+    color:black;
+    margin-top: 100px;
 }
 .main input{
     height: 71px;
