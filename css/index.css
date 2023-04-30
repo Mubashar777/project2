@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 .navbar{
-position: fixed;
+    width: 100%;
+position:fixed;
 background-color:gray;
 
 }
