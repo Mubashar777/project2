@@ -20,3 +20,45 @@ color:black;
     font-weight: 500;
 
 }
+
+
+.main{
+    background: url(https://images.unsplash.com/photo-1540496905036-5937c10647cc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)no-repeat;
+    background-size: cover;
+    min-height: 95vh;
+    width: 100%;
+}
+.main h1{
+    font-size: 5rem;
+    font-weight: 700;
+    color:red;
+}
+.main input{
+    height: 71px;
+    width: 70%;
+    border: none;
+    outline: none;
+    padding: 15px;
+}
+.btn2{
+    height: 70px;
+    width:25% ;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    outline:none ;
+    border: none;
+    cursor: pointer;
+    margin-left: -4px;
+}
+.btn2:hover{
+    height: 70px;
+    width:25% ;
+    background-color: rgb(219, 130, 130);
+    color:red;
+    transition: 0.5s;
+    font-weight: 700;
+    outline:none ;
+    border: none;
+    cursor: pointer;
+}
