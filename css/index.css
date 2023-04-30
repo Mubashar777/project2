@@ -3,3 +3,20 @@
     margin: 0%;
     box-sizing: border-box;
 }
+.navbar-brand{
+    font-size: 2rem;
+    color: red;
+}
+.nav-link{
+color:black;
+}
+.nav-link:hover{
+    color:red;
+    transition: 0.4s;
+}
+.nav-item{
+    color: blue;
+    padding-left: 25px;
+    font-weight: 500;
+
+}
