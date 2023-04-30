@@ -3,9 +3,15 @@
     margin: 0%;
     box-sizing: border-box;
 }
+.navbar{
+position: fixed;
+background-color:gray;
+
+}
 .navbar-brand{
     font-size: 2rem;
     color: red;
+    
 }
 .nav-link{
 color:black;
@@ -61,4 +67,13 @@ color:black;
     outline:none ;
     border: none;
     cursor: pointer;
+}
+
+
+
+
+
+
+.red{
+    color: red;
 }
