@@ -1,8 +1,7 @@
-.header{
-  height: 95vh;
-  min-width: 250px;
-  background-size: cover;
-  background: url(/assets/github-bg.webp);
+.navbar-toggler-icon{
+
+  background-color: rgba(255, 255, 255, 0.438);
+  border: none;
 }
 .btn{
   color: white;
@@ -29,11 +28,32 @@
 }
 
 .form-control{
-  background-color: rgba(235, 220, 220, 0.486);
+  background-color: rgba(255, 255, 255, 0.274);
 }
 
 .form-control aria-label{
   color: white;
+}
+
+/* Centered text */
+.centered {
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  color: white;
+  border: 1px solid white;
+border-radius: 50px;
+
+}
+.centered h5{
+  display:flex;
+  margin-top: 14px;
+}
+.button3{
+  
+  border: 1px white;
 }
 
 
